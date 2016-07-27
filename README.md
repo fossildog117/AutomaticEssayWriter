@@ -5,6 +5,7 @@ Essays are very boring to write for engineering and science students. So no more
 
 Possible changes:
 
-1) Implement BFS on references and use information on those sites to enhance the essay\n
+1) Implement BFS on references and use information on those sites to enhance the essay
+
 2) Improve synonyms parser
 
