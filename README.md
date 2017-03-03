@@ -14,4 +14,11 @@ Possible changes:
 4) Implement a separate classes for an introduction, essay body and conclusion such that these classes inherit from an abstract Paragraph class
 
 
-FYI: If the essay appears to be shit go into the EssayWrite.java file and change "words.size() / 2" on line 68 and increase it
+FYI: If the essay appears to be terrible go into the EssayWrite.java file and change "words.size() / 2" on line 68 and increase it
+
+
+To run the application simply go to EssayWriterV1.java and enter the essay topic on line 18:
+
+EssayWrite myEssay = new EssayWrite("Essay Topic");
+
+Then compile and run the code.
